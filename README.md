@@ -2,6 +2,7 @@
 
 This is a pytorch-based implementation for paper [Decoupled attention network for text recognition](https://arxiv.org/abs/1912.10205) (AAAI-2020).
 
+HW：手写，scene：场景
 
 ## Requirements
 
